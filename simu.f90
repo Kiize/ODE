@@ -64,7 +64,7 @@ subroutine runge_kutta(y, m, t, h, b)
 
     a(6, 5) = 253.0d0/4096.0d0
 
-    ! Bleah :(
+
 
 
     do i = 1, 6
